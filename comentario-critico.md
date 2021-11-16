@@ -1,6 +1,6 @@
-#Primer comentario de una visualización
+# Primer comentario de una visualización
 
-##El retorno de personas migrantes
+## El retorno de personas migrantes
 
 Esta infografía está bastante completa ya que trata el número de retornos voluntarios y reintegraciones de los migrantes, además del tipo y la edad de los mismos. Por otro lado, observamos los países de regreso y los de acogida.
 
