@@ -2,7 +2,7 @@
 
 ## La propagación de la COVID-19
 
-![infografia](/img/contagio-personas.jpg "gráfico realizado mediante emoticonos para reflejar la propagación del virus")
+![infografia](/img/contagios-personas.jpg "gráfico realizado mediante emoticonos para reflejar la propagación del virus")
 
 Se ha escogido esta [infografía](https://elpais.com/sociedad/2020/04/01/actualidad/1585734540_155050.html) porque es un claro ejemplo de scrollytelling.
 
