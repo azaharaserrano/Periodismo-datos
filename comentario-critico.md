@@ -2,7 +2,9 @@
 
 ## El retorno de personas migrantes
 
-Esta infografía está bastante completa ya que trata el número de retornos voluntarios y reintegraciones de los migrantes, además del tipo y la edad de los mismos. Por otro lado, observamos los países de regreso y los de acogida.
+![infografia](/img/retorno-migrantes.jpg "gráfico sobre el retorno de personas migrantes")
+
+Esta [infografía](https://elordenmundial.com/mapas-y-graficos/retorno-voluntario-migrantes/) está bastante completa ya que trata el número de retornos voluntarios y reintegraciones de los migrantes, además del tipo y la edad de los mismos. Por otro lado, observamos los países de regreso y los de acogida.
 
 Si no fuera por el uso de estas infografías, el lector tendría que enfrentarse a unos datos ‘en crudo’ con lo que supondría una posible pérdida de información puesto que al enfrentarse solo a cifras la atención disminuiría.
 
