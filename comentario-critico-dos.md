@@ -2,7 +2,9 @@
 
 ## La propagación de la COVID-19
 
-Se ha escogido esta infografía porque es un claro ejemplo de scrollytelling.
+![infografia](/img/contagio-personas.jpg "gráfico realizado mediante emoticonos para reflejar la propagación del virus")
+
+Se ha escogido esta [infografía](https://elpais.com/sociedad/2020/04/01/actualidad/1585734540_155050.html) porque es un claro ejemplo de scrollytelling.
 
 La información utiliza varias de estas visualizaciones para tratar el tema de los contagios por COVID-19, es difícil innovar en este campo pues muchos fueron los medios que recurrieron al uso de visualizaciones para hacer los datos más accesibles a la población y poder concienciar mejor sobre la situación.
 
